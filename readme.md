@@ -1,6 +1,6 @@
 Hello,
 
-Please find the leaflet challenge in this repo.
+Please find the Part 1 leaflet challenge in this repo.
 
 Static folder contains the javascript and css file
 
